@@ -1,0 +1,9 @@
+{
+    "cars": 11,
+    "buses": 1,
+    "bikes": 0,
+    "persons": 0,
+    "total": 12,
+    "unique": 21,
+    "traffic_status": "MEDIUM"
+}
